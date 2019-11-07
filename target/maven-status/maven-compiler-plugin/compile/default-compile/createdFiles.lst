@@ -1,0 +1,3 @@
+com\netease\bigdate\WordCount$MyMapper.class
+com\netease\bigdate\WordCount$MyReduce.class
+com\netease\bigdate\WordCount.class
